@@ -1,4 +1,6 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [Introduction](README.md)
+* [Machines has wrong subscription attached](first-question.md)
+* [download package fails due to  not being able to attach subscription](download-package-fails-due-to-not-being-able-to-attach-subscription.md)
+
