@@ -1,6 +1,6 @@
 # Voortschrijdend inzicht met betrekking tot
 
-# Red Hat Satellite  6
+# Red Hat Satellite  6 
 
 # 
 
